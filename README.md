@@ -52,7 +52,10 @@ python main.py clean
 # Run full ETL: scrape + clean
 python main.py all
 
-Highlights:
+---
+
+
+## **Highlights:**
 
 Robust Scraping: Handles missing fields and logs errors.
 

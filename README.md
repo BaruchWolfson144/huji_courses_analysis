@@ -18,6 +18,7 @@ The workflow is divided into three main steps:
 ---
 
 ## **Project Structure**
+```
 courses_analysis/
 ├─ scripts/
 │ ├─ scrape_courses.py # scraper function
@@ -30,7 +31,7 @@ courses_analysis/
 ├─ venv/ # virtual environment
 ├─ main.py # main runner script
 └─ README.md # project description
-
+```
 
 ---
 

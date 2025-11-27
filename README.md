@@ -25,7 +25,7 @@ courses_analysis/
 │ └─ clean_and_load.py # cleaning & loading functions
 ├─ data/
 │ ├─ huji_shnaton.db # SQLite database
-│ └─ raw_courses_2026.json # raw JSON from scraper
+│ └─ raw_courses_2026.json # raw JSON from scraper (here data from 2026 for example)
 ├─ analysis/
 │ └─ 01_basic_statistic.ipynb # Jupyter notebook for analysis
 ├─ venv/ # virtual environment
